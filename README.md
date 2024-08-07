@@ -1,12 +1,12 @@
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Shopping Mall Customer Data Segmentation Analysis](https://www.kaggle.com/datasets/datazng/shopping-mall-customer-data-segmentation-analysis/data)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+I thought it was a fun dataset to work on, I like business and economics and I'd love to delve into trends and look into the data and try to visualize that data.
 
 ## Progress
-- [ ] Picked dataset
+- [x] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
