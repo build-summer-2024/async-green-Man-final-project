@@ -17,7 +17,7 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: [Brief description of the task]
+- [ ] Question 2: Find and visualize what percent each age group makes up of mall shoppers.
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
