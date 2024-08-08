@@ -1,5 +1,5 @@
 ## Dataset
-[Shopping Mall Customer Data Segmentation Analysis](https://www.kaggle.com/datasets/datazng/shopping-mall-customer-data-segmentation-analysis/data)
+[Shopping Mall Customer Data Segmentation Data](https://www.kaggle.com/datasets/zubairmustafa/shopping-mall-customer-segmentation-data)
 
 ## Why did I chose this dataset?
 
@@ -13,7 +13,7 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
+- [ ] Question 1: Find and visualize the average spending scores per age group.(Gen Z, Millenials, Gen X, Boomers etc.)
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
