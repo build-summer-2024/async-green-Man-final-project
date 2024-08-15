@@ -13,17 +13,17 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: Find and visualize the average spending scores per age group.(Gen Z, Millenials, Gen X, Boomers etc.)
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+- [X] Question 1: Find and visualize the average spending scores per age group.(Gen Z, Millenials, Gen X, Boomers etc.)
+  - Answer: Gen Z: 51.84, Millenials: 50.22, Gen X: 50.74, Baby Boombers: 5.53, and the Silent Generation: 50.25 
+  - Visualization: ![Q1 Visualization](image-1.png)
 
-- [ ] Question 2: Find and visualize what percent each age group makes up of mall shoppers.
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+- [x] Question 2: Find and visualize what percent each age group makes up of mall shoppers.
+  - Answer: Gen Z: 10.6%, Millenials: 22,1%, Gen X: 21.9% Baby Boombers: 25.7%, and the Silent Generation: 19.7% 
+  - Visualization: ![Q2 Visualization](image.png)
 
-- [ ] Question 3: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+- [x] Question 3: Find and visualize the gender makeup of the market and the gender split of each age segmentation.
+  - Answer: Starting from now, any of the ones that get too long to list will only show the images
+  - Visualization: ![Q3 Visualization](image-2.png)
 
 - [ ] Question 4: [Brief description of the task]
   - Answer: [Placeholder for answer]
