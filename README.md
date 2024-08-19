@@ -29,7 +29,7 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](image-3.png)
 
-- [ ] Question 5: 
+- [ ] Question 5: [Brief description of the task]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
