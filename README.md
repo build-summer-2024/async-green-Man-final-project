@@ -25,11 +25,11 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
   - Answer: Starting from now, any of the ones that get too long to list will only show the images
   - Visualization: ![Q3 Visualization](image-2.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [x] Question 4: How are consumers segmented based on income?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Visualization: ![Q4 Visualization](image-3.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: 
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
