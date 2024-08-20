@@ -25,13 +25,13 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
   - Answer: Starting from now, any of the ones that get too long to list will only show the images
   - Visualization: ![Q3 Visualization](image-2.png)
 
-- [x] Question 4: How are consumers segmented based on income?
-  - Answer: [Placeholder for answer]
+- [x] Question 4: How are consumers segmented based on income according to the U.S Cencus Bureau's Income in the United States 2022 Report?
+  - Answer: The highest demographic belongs to the Upper-Middle class, followed by Upper Class then from middle class down, it descends in order.
   - Visualization: ![Q4 Visualization](image-3.png)
 
-- [ ] Question 5: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [ ] Question 5: What is the distribution for Spending Score.
+  - Answer: Spending Score from 0-25 made up 7.6%, the other 3 made up 30.8% each.
+  - Visualization: ![Q5 Visualization](image-4.png)
 
 - [ ] Question 6: [Brief description of the task]
   - Answer: [Placeholder for answer]
