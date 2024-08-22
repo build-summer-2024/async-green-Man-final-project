@@ -29,26 +29,27 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
   - Answer: The highest demographic belongs to the Upper-Middle class, followed by Upper Class then from middle class down, it descends in order.
   - Visualization: ![Q4 Visualization](image-3.png)
 
-- [ ] Question 5: What is the distribution for Spending Score.
+- [x] Question 5: What is the distribution for Spending Score.
   - Answer: Spending Score from 0-25 made up 7.6%, the other 3 made up 30.8% each.
   - Visualization: ![Q5 Visualization](image-4.png)
 
-- [ ] Question 6: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+- [x] Question 6: Of those in the top 25% of spending, how is it split based on gender and age?
+  - Answer: Baby Boomers make the highest percent, followed by Millenials and Gen X, however, it should be noted that this is from 2022 and Gen Z is still relativlely small sample size since this data set only includes those over 18.
+  - Visualization: ![Q6 Visualization](image-5.png)
 
-- [ ] Question 7: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [x] Question 7: How would this visualization look if it was segmented by gender as well?
+  - Answer: The distribution is 65% male and 35% female, it should also be noted that there aren't any women who are Boomers or Gen X with high spending score
+  - Visualization: ![Q7 Visualization](image-6.png)
 
-- [ ] Question 8: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [x] Question 8: How is income correlated with Spending Score?
+  - Answer: Reaching this point was quite hard, at first I tried a scatter plot, but that was useless, since the dataset is so big, and going with each average for each income ammount was also useless, since there were so many unique incomes. So I split it up into chunks of 5000 dollars (I also tried 1000, 2000, and 300, but the labels ended up not having enough space).
+  - Failed Attempt ![Q8 Failure Visualization](image-7.png)
+  - Visualization: ![Q8 Visualization](image-8.png)
 
-- [ ] Question 9: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+- [ ] Question 9: How is the group with 100 Spending score distributed based on gender and age?
+  - Answer: Baby Boomer men and Millial men make up the biggest portion
+  - Visualization: ![Q9 Visualization](image-9.png)
 
-- [ ] Question 10: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+- [ ] Question 10: How is the group with 100 Spending score distributed based on income?
+  - Answer: The highest spenders have the income of 80k-120k and it's followed by 40k-80k.
+  - Visualization: ![Q10 Visualization](image-10.png)
