@@ -7,9 +7,9 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
 
 ## Progress
 - [x] Picked dataset
-- [ ] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Defined 10 questions
+- [x] Answered 10 questions using Pandas
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
@@ -46,10 +46,10 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
   - Failed Attempt ![Q8 Failure Visualization](image-7.png)
   - Visualization: ![Q8 Visualization](image-8.png)
 
-- [ ] Question 9: How is the group with 100 Spending score distributed based on gender and age?
+- [x] Question 9: How is the group with 100 Spending score distributed based on gender and age?
   - Answer: Baby Boomer men and Millial men make up the biggest portion
   - Visualization: ![Q9 Visualization](image-9.png)
 
-- [ ] Question 10: How is the group with 100 Spending score distributed based on income?
+- [x] Question 10: How is the group with 100 Spending score distributed based on income?
   - Answer: The highest spenders have the income of 80k-120k and it's followed by 40k-80k.
   - Visualization: ![Q10 Visualization](image-10.png)
