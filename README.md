@@ -10,7 +10,7 @@ I thought it was a fun dataset to work on, I like business and economics and I'd
 - [x] Defined 10 questions
 - [x] Answered 10 questions using Pandas
 - [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [x] Prepared presentation slides to present at graduation
 
 ## Questions
 - [X] Question 1: Find and visualize the average spending scores per age group.(Gen Z, Millenials, Gen X, Boomers etc.)
